@@ -1,5 +1,5 @@
 # nlw-ecoleta
-Aplicação criada durante a Next Level Week promovida pela RocketSeat.
+Aplicação SPA (Single page application) criada durante a Next Level Week promovida pela RocketSeat.
 
 ## Tecnologias
 * Node;
