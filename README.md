@@ -1,5 +1,9 @@
 # nlw-ecoleta
 Aplicação criada durante a Next Level Week promovida pela RocketSeat.
 
-## Ferramentas
+## Tecnologias
 * Node;
+* React;
+* React Native;
+* TypeScript;
+* RestFull;
